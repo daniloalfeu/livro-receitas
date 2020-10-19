@@ -1,4 +1,4 @@
-## Macarrão ao molho de linguiça apimentada
+# Macarrão-de-linguiça
 
 - Um pacote de macarrão Penne 
 - Uma lata de tomate pelado
